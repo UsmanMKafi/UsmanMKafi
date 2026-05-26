@@ -1,7 +1,7 @@
 <h3>Hi there, I am Usman! &#128075;</h3> 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanMKafi&show_icons=true&theme=tokyonight)
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanMKafi&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanMKafi&layout=compact)](https://github.com/UsmanMKafi/github-readme-stats)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
